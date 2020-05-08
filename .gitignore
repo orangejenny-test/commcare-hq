@@ -50,6 +50,7 @@ submodules/vellum/Vellum
 
 ptop*.txt
 ptop*.json
+*.fake
 
 /.coverage
 /coverage-report
