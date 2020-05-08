@@ -1,4 +1,4 @@
-// http://eslint.org/
+// http://eslint.org/ ...
 module.exports = {
     "extends": "eslint:recommended",
 
